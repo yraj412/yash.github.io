@@ -1,0 +1,24 @@
+.col-md-4{
+            border-style:solid;
+        }
+.stuff{
+            border-style:solid;
+        }
+.blue{
+            background-color: rgb(255, 209, 130);
+        }
+.col{
+            font-family:Syne Mono;
+            border-style:solid;
+            margin:0px;
+        }
+.p{
+            margin:0px;
+        }
+.background-color{
+            color: white;
+            text-align: center;
+        }
+.high{
+    font-size:20px;
+}
